@@ -1,0 +1,9 @@
+.filters{
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.lable,.check{
+    cursor: pointer;
+}
